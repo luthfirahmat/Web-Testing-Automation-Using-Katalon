@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>valid data</description>
+   <name>Login 1.2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9db5639c-bb2c-4475-af09-836f02abe5fc</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>without input mandatory field</description>
+   <name>Make Appoinment 2.1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8e2d5d23-7b44-4200-a163-c5c8f24bc937</testCaseGuid>
+</TestCaseEntity>

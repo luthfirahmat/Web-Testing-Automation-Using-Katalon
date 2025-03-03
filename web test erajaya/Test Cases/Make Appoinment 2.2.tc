@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Invalid / succes book</description>
+   <name>Make Appoinment 2.2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a104c2eb-f995-4845-a0ab-903447a1d4d8</testCaseGuid>
+</TestCaseEntity>
