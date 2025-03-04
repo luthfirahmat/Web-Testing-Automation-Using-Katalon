@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>cffacb2f-c8df-4d15-bc70-059e664bc522</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.h-5.w-5.text-white.shrink-0.grow-0 > path</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#close</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>71ce6c92-7cb9-483f-b515-a6f918be7c22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M6.92912 11.1638C6.46729 10.6507 5.67693 10.6091 5.1638 11.0709C4.65066 11.5327 4.60906 12.3231 5.07088 12.8362L6.92912 11.1638ZM19 7.75C19.4142 7.19772 19.3023 6.41421 18.75 6C18.1977 5.58579 17.4142 5.69772 17 6.25L19 7.75ZM10.5 17L9.57088 17.8362C9.82098 18.1141 10.1823 18.2654 10.5558 18.2488C10.9293 18.2321 11.2757 18.0491 11.5 17.75L10.5 17ZM5.07088 12.8362L9.57088 17.8362L11.4291 16.1638L6.92912 11.1638L5.07088 12.8362ZM11.5 17.75L19 7.75L17 6.25L9.5 16.25L11.5 17.75Z</value>
+      <webElementGuid>d7831d04-a902-4d07-b974-80bcb5c6f18b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>4867e7c6-7435-4583-846b-b614fe923873</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;close&quot;)/span[1]/svg[@class=&quot;h-5 w-5 text-white shrink-0 grow-0&quot;]/path[1]</value>
+      <webElementGuid>df5c2d94-cc92-4732-83e9-42828b9904f9</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/1.2 Login_Valid/Page_Akun - Belanja Online Bergaransi Resmi/path",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "#close",
+      "proposedLocatorMethod": "SMART_LOCATOR",
+      "recoveryMethod": "SMART_LOCATOR",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/1.2 Login_Valid/Page_Akun - Belanja Online Bergaransi Resmi/path_SMART_LOCATOR.png"
+    }
+  ]
+}
